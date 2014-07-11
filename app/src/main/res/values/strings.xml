@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pancasila</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="butir1">
+        <item>Bangsa Indonesia menyatakan kepercayaannya dan ketakwaannya terhadap Tuhan Yang Maha Esa.</item>
+        <item>Manusia Indonesia percaya dan takwa terhadap Tuhan Yang Maha Esa, sesuai dengan agama dan kepercayaannya masing-masing menurut dasar kemanusiaan yang adil dan beradab.</item>
+        <item>Mengembangkan sikap hormat menghormati dan bekerjasama antara pemeluk agama dengan penganut kepercayaan yang berbeda-beda terhadap Tuhan Yang Maha Esa.</item>
+        <item>Membina kerukunan hidup di antara sesama umat beragama dan kepercayaan terhadap Tuhan Yang Maha Esa.</item>
+        <item>Agama dan kepercayaan terhadap Tuhan Yang Maha Esa adalah masalah yang menyangkut hubungan pribadi manusia dengan Tuhan Yang Maha Esa.</item>
+        <item>Mengembangkan sikap saling menghormati kebebasan menjalankan ibadah sesuai dengan agama dan kepercayaannya masing-masing.</item>
+        <item>Tidak memaksakan suatu agama dan kepercayaan terhadap Tuhan Yang Maha Esa kepada orang lain.</item>
+    </string-array>
+
+    <string-array name="butir2">
+        <item>Mengakui dan memperlakukan manusia sesuai dengan harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa.</item>
+        <item>Mengakui persamaan derajat, persamaan hak, dan kewajiban asasi setiap manusia, tanpa membeda-bedakan suku, keturunan, agama, kepercayaan, jenis kelamin, kedudukan sosial, warna kulit dan sebagainya.</item>
+        <item>Mengembangkan sikap saling mencintai sesama manusia.</item>
+        <item>Mengembangkan sikap saling tenggang rasa dan tepa selira.</item>
+        <item>Mengembangkan sikap tidak semena-mena terhadap orang lain.</item>
+        <item>Menjunjung tinggi nilai-nilai kemanusiaan.</item>
+        <item>Gemar melakukan kegiatan kemanusiaan.</item>
+        <item>Berani membela kebenaran dan keadilan.</item>
+        <item>Bangsa Indonesia merasa dirinya sebagai bagian dari seluruh umat manusia.</item>
+        <item>Mengembangkan sikap hormat menghormati dan bekerjasama dengan bangsa lain.</item>
+    </string-array>
+
+    <string-array name="butir3">
+        <item>Mampu menempatkan persatuan, kesatuan, serta kepentingan dan keselamatan bangsa dan negara sebagai kepentingan bersama di atas kepentingan pribadi dan golongan.</item>
+        <item>Sanggup dan rela berkorban untuk kepentingan negara dan bangsa apabila diperlukan.</item>
+        <item>Mengembangkan rasa cinta kepada tanah air dan bangsa.</item>
+        <item>Mengembangkan rasa kebanggaan berkebangsaan dan bertanah air Indonesia.</item>
+        <item>Memelihara ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.</item>
+        <item>Mengembangkan persatuan Indonesia atas dasar Bhinneka Tunggal Ika.</item>
+        <item>Memajukan pergaulan demi persatuan dan kesatuan bangsa.</item>
+    </string-array>
+
+    <string-array name="butir4">
+        <item>Sebagai warga negara dan warga masyarakat, setiap manusia Indonesia mempunyai kedudukan, hak, dan kewajiban yang sama.</item>
+        <item>Tidak boleh memaksakan kehendak kepada orang lain.</item>
+        <item>Mengutamakan musyawarah dalam mengambil keputusan untuk kepentingan bersama.</item>
+        <item>Musyawarah untuk mencapai mufakat diliputi oleh semangat kekeluargaan.</item>
+        <item>Menghormati dan menjunjung tinggi setiap keputusan yang dicapai sebagai hasil musyawarah.</item>
+        <item>Dengan iktikad baik dan rasa tanggung jawab menerima dan melaksanakan hasil keputusan musyawarah.</item>
+        <item>Di dalam musyawarah diutamakan kepentingan bersama di atas kepentingan pribadi dan golongan.</item>
+        <item>Musyawarah dilakukan dengan akal sehat dan sesuai dengan hati nurani yang luhur.</item>
+        <item>Keputusan yang diambil harus dapat dipertanggungjawabkan secara moral kepada Tuhan Yang Maha Esa, menjunjung tinggi harkat dan martabat manusia, nilai-nilai kebenaran dan keadilan mengutamakan persatuan dan kesatuan demi kepentingan bersama.</item>
+        <item>Memberikan kepercayaan kepada wakil-wakil yang dipercayai untuk melaksanakan pemusyawaratan.</item>
+    </string-array>
+
+    <string-array name="butir5">
+        <item>Mengembangkan perbuatan-perbuatan yang luhur yang mencerminkan sikap dan suasana kekeluargaan dan gotong-royong.</item>
+        <item>Bersikap adil.</item>
+        <item>Menjaga keseimbangan antara hak dan kewajiban.</item>
+        <item>Menghormati hak-hak orang lain.</item>
+        <item>Suka memberi pertolongan kepada orang lain.</item>
+        <item>Menjauhi sikap pemerasan terhadap orang lain.</item>
+        <item>Tidak bersifat boros.</item>
+        <item>Tidak bergaya hidup mewah.</item>
+        <item>Tidak melakukan perbuatan yang merugikan kepentingan umum.</item>
+        <item>Suka bekerja keras.</item>
+        <item>Menghargai hasil karya orang lain.</item>
+        <item>Bersama-sama berusaha mewujudkan kemajuan yang merata dan berkeadilan sosial.</item>
+    </string-array>
+</resources>
