@@ -1,6 +1,7 @@
 package net.akhyar.indonesia;
 
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.ListView;
@@ -26,6 +27,7 @@ public class DetailActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         ButterKnife.inject(this);
 
         String title = getIntent().getStringExtra("title");
@@ -41,5 +43,21 @@ public class DetailActivity extends BaseActivity {
 
         mList.addHeaderView(header);
         mList.setAdapter(mPointAdapter);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            finish();
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void finish() {
+        super.finish();
+
+        overridePendingTransition(R.anim.abc_slide_in_top, R.anim.abc_slide_out_bottom);
     }
 }

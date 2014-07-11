@@ -42,5 +42,7 @@ public class MainActivity extends BaseActivity {
         intent.putExtra("points", sila.getPoints());
         intent.putExtra("imageResId", sila.getImageResId());
         startActivity(intent);
+
+        overridePendingTransition(R.anim.abc_slide_in_bottom, R.anim.abc_slide_out_top);
     }
 }
